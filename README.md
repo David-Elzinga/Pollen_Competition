@@ -6,8 +6,7 @@ Netlogo Folder - In this folder you'll find the one .nlogo file that generates a
 
 1. Generate LHS data from single accession simulations
 2. Generate LHS data from double accession simulations
-3. Generate synthetic experimental data for pollen tube interference based on the best parameter combinations
-4. Generate synthetic experimental data for ler dominance based on the best parameter combinations
+3. Generate synthetic experimental data for ler dominance based on the best parameter combinations
 
 Germination Fitting - In this folder you'll find the .m files to fit the germination rate curves and caclulate AICc scores.
 
@@ -25,8 +24,6 @@ Repo 1: https://data.mendeley.com/v1/datasets/9xd5cc2nbv/draft?a=1a9cecda-1f44-4
 * col_germ.csv - a file containing the Gompertz fit for each minute for col. 
 * ler_germ.csv - a file containing the Gompertz fit for each minute for ler. 
 * emp_results.xlsx -  a file containing the wet lab experiments for ler dominance. 
-* interference_data_DFO - synthetic data generated from interference experiments in NetLogo using DFO critera for the best parameters. 
-* interference_data_MLFO - synthetic data generated from interference experiments in NetLogo using MLFO critera for the best parameters. 
 * LHS.csv - the parameter combinations used in our LHS. 
 
 Repo 2: https://data.mendeley.com/datasets/n6vwc2prv4/draft?a=b3795357-ae0b-461f-bce4-d1cf6b006561
